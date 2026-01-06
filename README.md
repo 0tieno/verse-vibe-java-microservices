@@ -1,10 +1,6 @@
 # verse-vibe-java-microservices
 A microservices-based implementation of VerseVibe using Java and Spring Boot.
 
-# VerseVibe Java Microservices
-
-A microservices-based implementation of VerseVibe using Java and Spring Boot.
-
 ## Services
 - Service Registry (Eureka) - Port 8761
 - Config Server - Port 8888
