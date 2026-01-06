@@ -15,11 +15,5 @@ A microservices-based implementation of VerseVibe using Java and Spring Boot.
 - Prayer Service - Port 8083
 - [... more services]
 
-## Quick Start
-\`\`\`bash
-./scripts/setup.sh
-docker-compose up
-\`\`\`
-
 ## Documentation
 See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed architecture.
